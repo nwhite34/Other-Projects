@@ -1,7 +1,7 @@
 html body{
     margin: 0;
     text-align: center;
-    
+   
 }
 
 
@@ -11,10 +11,32 @@ header{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     font-size: 40px;
-    background-image: linear-gradient(rgb(189, 255, 228), white);
+
 }
 
 ul{
     padding: 20px;
+    font-family: 'Inter', 'Sans-Serif';
+   
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     
+}
+
+
+footer{
+    background-image: linear-gradient( white, rgb(189, 255, 228));
+    margin-top: auto;
+    height: 250px;
+}
+
+h1{
+    text-align: center;
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
 }
