@@ -169,13 +169,14 @@ a:focus {
     width: 100px;
     background: #99D930;
     margin: 0;
-    bottom: 20px;
-    right: 20px;
+    top: 20px;
+    left: 20px;
     margin: 0;
     border-radius: 100%;
     display: flex;
     justify-content: center;
     cursor: pointer;
+    border: 2px black solid;
 }
 
 .icon1 {
@@ -184,4 +185,9 @@ a:focus {
     display: flex;
     justify-content: center;
     margin: 10px;
+}
+
+.message:hover{
+    border: 2px black solid;
+    background: white;
 }
