@@ -1,3 +1,4 @@
+
 body {
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -5,6 +6,7 @@ body {
     font-weight: 300;
     margin: 0;
 }
+
 
 .container {
     width: 570px;
@@ -191,3 +193,51 @@ a:focus {
     border: 2px black solid;
     background: white;
 }
+
+
+@media only screen and (max-width: 375px) {
+    /* Adjustments for iPhone screens */
+  
+    .container {
+      width: 100%;
+      padding: 10px;
+    }
+  
+    header {
+      height: auto;
+    }
+  
+    h1 {
+      font-size: 40px;
+      padding-top: 20px;
+    }
+  
+    h2 {
+      font-size: 30px;
+      padding: 10px;
+      width: 80%;
+    }
+  
+    h3 {
+      font-size: 28px;
+    }
+  
+    #iconNick {
+      width: 120px;
+      height: 120px;
+    }
+  
+    .container1,
+    .container2,
+    .container3,
+    .container4 {
+      height: auto;
+      padding: 10px;
+    }
+  
+    .containerTitle,
+    .containerTitle2 {
+      width: 100%;
+      padding: 10px;
+    }
+  }
