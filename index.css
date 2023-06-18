@@ -67,7 +67,7 @@ h2 .accent-text {
 .name,
 time {
     font-weight: 900;
-    color: #99D930;
+    color: #ff004f;
 }
 
 p {
@@ -75,7 +75,7 @@ p {
 }
 
 a {
-    color: #99D930;
+    color: #ff004f;
     font-weight: 900;
     text-decoration: none;
 }
@@ -105,12 +105,12 @@ a:focus {
     margin-top: 20px;
     width: 150px;
     height: 150px;
-    border: #99D930 solid 2px;
+    border: #ff004f solid 2px;
 }
 
 
 #bottomLink:hover {
-    color: #99D930;
+    color: #ff004f;
     text-decoration: underline;
 }
 
@@ -150,7 +150,7 @@ a:focus {
 
 
 .containerTitle2 {
-    color: #99D930;
+    color: #ff004f;
     ;
     font-weight: 900;
     border-top: solid 1px #c4c4c4;
@@ -165,7 +165,7 @@ a:focus {
     position: fixed;
     height: 100px;
     width: 100px;
-    background: #99D930;
+    background: #ff004f;
     margin: 0;
     top: 20px;
     left: 20px;
@@ -261,7 +261,7 @@ ul {
     .name,
     time {
         font-weight: 900;
-        color: #99D930;
+        color: #ff004f;
     }
 
     p {
@@ -269,7 +269,7 @@ ul {
     }
 
     a {
-        color: #99D930;
+        color: #ff004f;
         font-weight: 900;
         text-decoration: none;
     }
@@ -297,11 +297,11 @@ ul {
         margin-top: 20px;
         width: 150px;
         height: 150px;
-        border: #99D930 solid 2px;
+        border: #ff004f solid 2px;
     }
 
     #bottomLink:hover {
-        color: #99D930;
+        color: #ff004f;
         text-decoration: underline;
     }
 
@@ -354,7 +354,7 @@ ul {
     }
 
     .containerTitle2 {
-        color: #99D930;
+        color: #ff004f;
         font-weight: 900;
         border-top: solid 1px #c4c4c4;
         border-bottom: solid 1px #c4c4c4;
@@ -368,7 +368,7 @@ ul {
         position: fixed;
         height: 80px;
         width: 80px;
-        background: #99D930;
+        background: #ff004f;
         margin: 0;
         top: 20px;
         left: 20px;
